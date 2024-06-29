@@ -1,4 +1,4 @@
-baseurl      = "https://zemanovix.sk"
+baseurl      = "https://personalblog-7yj.pages.dev/"
 title        = "Osobny blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
