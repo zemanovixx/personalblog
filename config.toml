@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://zemanovix.sk"
 title        = "Osobny blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -56,20 +56,21 @@ paginate     = 10
     name       = "Blog"
     url        = "/posts"
 
-[[params.social]]
-  name  = "strava"
-  url = "https://www.strava.com/athletes/25552679"
+  # Odkazy na socialne siete
+  [[params.social]]
+    name  = "strava"
+    url = "https://www.strava.com/athletes/25552679"
 
-[[params.social]]
-  name = "instagram"
-  url = "https://www.instagram.com/zemanovix/"
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/zemanovix/"
 
-[[params.social]]
-  name = "signal"
-  url = "https://signal.me/#eu/JOh_0wUihnsyY9kDrQvXbOmZa1KanJ4P7dF87hO4JPMI4HbZQWtO0aAgSFOY2g5X"
+  [[params.social]]
+    name = "signal"
+    url = "https://signal.me/#eu/JOh_0wUihnsyY9kDrQvXbOmZa1KanJ4P7dF87hO4JPMI4HbZQWtO0aAgSFOY2g5X"
 
-[[params.social]]
-  name = "email"
-  url = "/email/email"
-  nonewpage = true
+  [[params.social]]
+    name = "email"
+    url = "/email/email"
+    nonewpage = true
 
