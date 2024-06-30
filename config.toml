@@ -1,4 +1,4 @@
-baseurl      = "https://personalblog-7yj.pages.dev/"
+baseurl      = "https://zemanovix.sk"
 title        = "Osobny blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -20,7 +20,7 @@ paginate     = 10
   enableSharingButtons = false
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
@@ -43,7 +43,7 @@ paginate     = 10
     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "zemanovix"
       logoHomeLink = "/"
     # or
     #
