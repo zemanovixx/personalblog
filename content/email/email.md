@@ -6,4 +6,4 @@ draft: true
 
 Tu je moja emailová adresa , pre bezpečnú komunikáciu odporúčam použiť pgp , môj public key nájdete na úvodnej stránke
 
-    email : s.zemanovic@protonmail.com
+    email : **s.zemanovic@protonmail.com**
